@@ -1,0 +1,15 @@
+{
+    "app_title": "Youtube Subscriber Small TV Pro - GeekMagic",
+    "button_configurar": "Configurar",
+    "button_fechar": "Fechar aplicação",
+    "popup_title": "Configuração",
+    "popup_api_label": "Sua API Key",
+    "popup_channel_label": "Seu Channel ID",
+    "popup_ip_label": "IP do dispositivo",
+    "popup_inscritos_label": "Texto inscritos",
+    "popup_salvar": "Salvar",
+    "popup_cancelar": "Cancelar",
+    "link_instagram": "Instagram",
+    "link_github": "GitHub",
+    "legenda_inscritos": "subscribers"
+}
