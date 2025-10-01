@@ -29,3 +29,11 @@ Futuro do projeto
 - Adicionar mais possibilidades de redes sociais
 - Criar identidade Visual do software e uma interface mais bonita
 - Fazer o programa rodar localmente na telinha, sem precisar do computador para atualização (será necessário soldar componentes para possibilitar o flash)
+
+Obs: Código gerado via Vibe Coding usando ChatGPT, ainda estou começando a me aventurar nesse meio de programação e estou fazendo isso para ir treinando e aprendendo, se isso te incomoda, recomendo esperar as futuras atualizações aonde pretendo refatorar tudo sem o auxílio de IA`S
+
+Agradecimentos e Inspirações 
+- A minha esposa que apoia essas minhas loucuras 
+- Aos amigos que sempre incentivaram eu ficar criando coisas
+- Ao [Alexshch09](https://github.com/Alexshch09/geekmagic-smalltv-ultra-btc-tracker/tree/main) e [harusame3144](https://github.com/harusame3144/geekmagic-smalltv-spotify) que criaram códigos que me mostraram ser possível fazer essa adaptação
+- A Comunidade do Home Assistant, que a partir [deste tópico](https://community.home-assistant.io/t/installing-esphome-on-geekmagic-smart-weather-clock-smalltv-pro/618029) me despertou a curiosidade por essa telinha e pelas possibilidades de criação com ela 
